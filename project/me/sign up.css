@@ -1,0 +1,42 @@
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+div {
+    background-color: #E27E12;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 90px;
+}
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: #88598F;
+    padding-top: 60px;
+    padding-bottom: 330px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.b1:hover {
+    background-color: #E27E12;
+    font-family: monospace;
+    font-size: 16pt;
+}
+
+form {
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 29pt;
+}
+
+button focus {
+    font-style: bold;
+    font-size: 25pt;
+}
